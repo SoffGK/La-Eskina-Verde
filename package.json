@@ -1,11 +1,19 @@
 {
   "name": "laeskinaverde",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoffGK/La-Eskina-Verde.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SoffGK/La-Eskina-Verde/issues"
+  },
+  "homepage": "https://github.com/SoffGK/La-Eskina-Verde#readme",
+  "description": ""
 }
